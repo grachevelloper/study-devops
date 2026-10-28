@@ -1,3 +1,5 @@
 tmp
 plans
 evidence
+__pycache__/
+*.pyc
