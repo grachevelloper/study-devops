@@ -10,8 +10,3 @@ IMPORTANT_FIX = True
 
 def subtract(a, b):
     return a - b  # fixed
-
-
-def multiply(a, b):
-    """Return the product of two numbers."""
-    return a * b
